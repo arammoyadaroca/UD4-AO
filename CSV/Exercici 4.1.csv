@@ -1,0 +1,4 @@
+ID,Client_DNI,TipusPagament,PreuAnual,DataContractacio,DataIniciVigencia,DataFinalVigencia,Venedor_DNI,TipusPolissa_ID
+01234,76842192A,VISA,,NULL,NULL,NULL,NULL,NULL
+45678,12345678G,Efectiu,,NULL,NULL,NULL,NULL,NULL
+89012,NULL,Targeta,NULL,NULL,NULL,NULL,NULL,NULL
